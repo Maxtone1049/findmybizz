@@ -1,0 +1,202 @@
+[0] request for abtbizconnect.com/:
+<<< GET / HTTP/1.1
+<<< If-None-Match: W/"18bb-17a9038abd8"
+<<< If-Modified-Since: Sat, 10 Jul 2021 11:41:11 GMT
+<<< Connection: keep-alive
+<<< Host: abtbizconnect.com
+<<< User-Agent: Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)
+<<< Accept: text/html,image/png,image/jpeg,image/pjpeg,image/x-xbitmap,image/svg+xml,image/gif;q=0.9,*/*;q=0.1
+<<< Accept-Language: en, *
+<<< Accept-Encoding: gzip, identity;q=0.9
+
+
+[1] request for abtbizconnect.com/robots.txt:
+<<< GET /robots.txt HTTP/1.1
+<<< If-None-Match: W/"18bb-17a9038abd8"
+<<< If-Modified-Since: Sat, 10 Jul 2021 11:41:11 GMT
+<<< Connection: keep-alive
+<<< Host: abtbizconnect.com
+<<< User-Agent: Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)
+<<< Accept: text/html,image/png,image/jpeg,image/pjpeg,image/x-xbitmap,image/svg+xml,image/gif;q=0.9,*/*;q=0.1
+<<< Accept-Language: en, *
+<<< Accept-Encoding: gzip, identity;q=0.9
+
+
+[0] response for abtbizconnect.com/:
+code=304
+>>> HTTP/1.1 304 Not Modified
+>>> Server: Cowboy
+>>> Content-Length: 0
+>>> Connection: keep-alive
+>>> Access-Control-Allow-Origin: *
+>>> X-Dns-Prefetch-Control: off
+>>> Expect-Ct: max-age=0
+>>> X-Frame-Options: SAMEORIGIN
+>>> Strict-Transport-Security: max-age=15552000; includeSubDomains
+>>> X-Download-Options: noopen
+>>> X-Content-Type-Options: nosniff
+>>> X-Permitted-Cross-Domain-Policies: none
+>>> Referrer-Policy: no-referrer
+>>> X-Xss-Protection: 0
+>>> Accept-Ranges: bytes
+>>> Cache-Control: public, max-age=0
+>>> Last-Modified: Sat, 10 Jul 2021 11:41:11 GMT
+>>> Etag: W/"18bb-17a9038abd8"
+>>> Date: Fri, 27 Aug 2021 16:00:59 GMT
+>>> Via: 1.1 vegur
+
+
+[1] response for abtbizconnect.com/robots.txt:
+code=304
+>>> HTTP/1.1 304 Not Modified
+>>> Server: Cowboy
+>>> Content-Length: 0
+>>> Connection: keep-alive
+>>> Access-Control-Allow-Origin: *
+>>> X-Dns-Prefetch-Control: off
+>>> Expect-Ct: max-age=0
+>>> X-Frame-Options: SAMEORIGIN
+>>> Strict-Transport-Security: max-age=15552000; includeSubDomains
+>>> X-Download-Options: noopen
+>>> X-Content-Type-Options: nosniff
+>>> X-Permitted-Cross-Domain-Policies: none
+>>> Referrer-Policy: no-referrer
+>>> X-Xss-Protection: 0
+>>> Accept-Ranges: bytes
+>>> Cache-Control: public, max-age=0
+>>> Last-Modified: Sat, 10 Jul 2021 11:41:11 GMT
+>>> Etag: W/"18bb-17a9038abd8"
+>>> Date: Fri, 27 Aug 2021 16:00:59 GMT
+>>> Via: 1.1 vegur
+
+
+[1] request for abtbizconnect.com/manifest.json:
+<<< GET /manifest.json HTTP/1.1
+<<< If-None-Match: W/"131-17a9037bd90"
+<<< If-Modified-Since: Sat, 10 Jul 2021 11:40:10 GMT
+<<< Referer: http://abtbizconnect.com/
+<<< Connection: keep-alive
+<<< Host: abtbizconnect.com
+<<< User-Agent: Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)
+<<< Accept: text/html,image/png,image/jpeg,image/pjpeg,image/x-xbitmap,image/svg+xml,image/gif;q=0.9,*/*;q=0.1
+<<< Accept-Language: en, *
+<<< Accept-Encoding: gzip, identity;q=0.9
+
+
+[1] response for abtbizconnect.com/manifest.json:
+code=304
+>>> HTTP/1.1 304 Not Modified
+>>> Server: Cowboy
+>>> Content-Length: 0
+>>> Connection: keep-alive
+>>> Access-Control-Allow-Origin: *
+>>> X-Dns-Prefetch-Control: off
+>>> Expect-Ct: max-age=0
+>>> X-Frame-Options: SAMEORIGIN
+>>> Strict-Transport-Security: max-age=15552000; includeSubDomains
+>>> X-Download-Options: noopen
+>>> X-Content-Type-Options: nosniff
+>>> X-Permitted-Cross-Domain-Policies: none
+>>> Referrer-Policy: no-referrer
+>>> X-Xss-Protection: 0
+>>> Accept-Ranges: bytes
+>>> Cache-Control: public, max-age=0
+>>> Last-Modified: Sat, 10 Jul 2021 11:40:10 GMT
+>>> Etag: W/"131-17a9037bd90"
+>>> Date: Fri, 27 Aug 2021 16:01:00 GMT
+>>> Via: 1.1 vegur
+
+
+[2] request for fonts.googleapis.com/css2?family=Open+Sans&display=swap:
+<<< GET /css2?family=Open+Sans&display=swap HTTP/1.1
+<<< If-Modified-Since: Fri, 27 Aug 2021 15:51:41 GMT
+<<< Referer: http://abtbizconnect.com/
+<<< Connection: keep-alive
+<<< Host: fonts.googleapis.com
+<<< User-Agent: Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)
+<<< Accept: text/html,image/png,image/jpeg,image/pjpeg,image/x-xbitmap,image/svg+xml,image/gif;q=0.9,*/*;q=0.1
+<<< Accept-Language: en, *
+<<< Accept-Encoding: gzip, identity;q=0.9
+
+
+[3] request for fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic:
+<<< GET /css?family=Lato:300,400,700,300italic,400italic,700italic HTTP/1.1
+<<< If-Modified-Since: Fri, 27 Aug 2021 15:51:42 GMT
+<<< Referer: http://abtbizconnect.com/
+<<< Connection: keep-alive
+<<< Host: fonts.googleapis.com
+<<< User-Agent: Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)
+<<< Accept: text/html,image/png,image/jpeg,image/pjpeg,image/x-xbitmap,image/svg+xml,image/gif;q=0.9,*/*;q=0.1
+<<< Accept-Language: en, *
+<<< Accept-Encoding: gzip, identity;q=0.9
+
+
+[4] request for fonts.googleapis.com/robots.txt:
+<<< GET /robots.txt HTTP/1.1
+<<< If-Modified-Since: Fri, 27 Aug 2021 15:52:03 GMT
+<<< Referer: http://abtbizconnect.com/
+<<< Connection: keep-alive
+<<< Host: fonts.googleapis.com
+<<< User-Agent: Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)
+<<< Accept: text/html,image/png,image/jpeg,image/pjpeg,image/x-xbitmap,image/svg+xml,image/gif;q=0.9,*/*;q=0.1
+<<< Accept-Language: en, *
+<<< Accept-Encoding: gzip, identity;q=0.9
+
+
+[2] response for fonts.googleapis.com/css2?family=Open+Sans&display=swap:
+code=200
+>>> HTTP/1.1 200 OK
+>>> Content-Type: text/css; charset=utf-8
+>>> Access-Control-Allow-Origin: *
+>>> Timing-Allow-Origin: *
+>>> Expires: Fri, 27 Aug 2021 16:01:01 GMT
+>>> Date: Fri, 27 Aug 2021 16:01:01 GMT
+>>> Cache-Control: private, max-age=86400
+>>> Cross-Origin-Resource-Policy: cross-origin
+>>> Server: ESF
+>>> X-XSS-Protection: 0
+>>> X-Frame-Options: SAMEORIGIN
+>>> X-Content-Type-Options: nosniff
+>>> Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+>>> Accept-Ranges: none
+>>> Vary: Accept-Encoding
+>>> Transfer-Encoding: chunked
+
+
+[3] response for fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic:
+code=200
+>>> HTTP/1.1 200 OK
+>>> Content-Type: text/css; charset=utf-8
+>>> Access-Control-Allow-Origin: *
+>>> Timing-Allow-Origin: *
+>>> Expires: Fri, 27 Aug 2021 16:01:01 GMT
+>>> Date: Fri, 27 Aug 2021 16:01:01 GMT
+>>> Cache-Control: private, max-age=86400
+>>> Cross-Origin-Resource-Policy: cross-origin
+>>> Server: ESF
+>>> X-XSS-Protection: 0
+>>> X-Frame-Options: SAMEORIGIN
+>>> X-Content-Type-Options: nosniff
+>>> Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+>>> Accept-Ranges: none
+>>> Vary: Accept-Encoding
+>>> Transfer-Encoding: chunked
+
+
+[4] response for fonts.googleapis.com/robots.txt:
+code=200
+>>> HTTP/1.1 200 OK
+>>> Content-Type: text/plain; charset=utf-8
+>>> Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+>>> Pragma: no-cache
+>>> Expires: Mon, 01 Jan 1990 00:00:00 GMT
+>>> Date: Fri, 27 Aug 2021 16:01:01 GMT
+>>> Content-Encoding: gzip
+>>> Server: ESF
+>>> X-XSS-Protection: 0
+>>> X-Frame-Options: SAMEORIGIN
+>>> X-Content-Type-Options: nosniff
+>>> Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-T051=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+>>> Transfer-Encoding: chunked
+
+
